@@ -63,7 +63,7 @@ export default function WhatsAppWidget() {
           </div>
         )}
 
-        {/* Bouton principal */}
+        {/* Bouton principal  */}
         <button
           onClick={toggleWidget}
           className="bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-green-500/50 focus:ring-offset-2"
