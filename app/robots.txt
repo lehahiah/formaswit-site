@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://formaswift.netlify.app/sitemap.xml
+
+# Disallow admin and private pages
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Allow all main pages
+Allow: /formaswift
+Allow: /formations
+Allow: /guides-formation
+Allow: /audit-coffee
+Allow: /partenaires
+Allow: /blog
+Allow: /contact
+
+# SEO optimized robots.txt for FormaSwift
+# Focus on training organizations, Qualiopi, and professional development
