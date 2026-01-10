@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Guide RGPD pour organismes de formation",
+    "category": "Guide PDF",
+    "description": "Comprendre et appliquer le RGPD dans un OF : obligations, procédures et modèles prêts à l'emploi.",
+    "priceTTC": 49,
+    "format": "PDF téléchargeable",
+    "pages": 45,
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Kit Qualiopi V9 complet",
+    "category": "Kit pédagogique",
+    "description": "Checklists, modèles de procédures et matrice RACI pour réussir votre certification Qualiopi.",
+    "priceTTC": 129,
+    "format": "Pack ZIP",
+    "pages": null,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Formation en ligne – Assistant(e) formation",
+    "category": "Formation en ligne",
+    "description": "2 jours pour maîtriser inscriptions, OPCO et Chorus Pro. Accès 6 mois inclus.",
+    "priceTTC": 490,
+    "format": "E-learning",
+    "pages": null,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Pack structuration documentaire",
+    "category": "Guide PDF",
+    "description": "Nomenclature, arborescence et modèles prêts à l'emploi pour organiser vos documents.",
+    "priceTTC": 79,
+    "format": "PDF téléchargeable",
+    "pages": 32,
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Tableau de bord Notion - Gestion OF",
+    "category": "Tableau de bord",
+    "description": "Template Notion complet pour piloter votre organisme de formation au quotidien.",
+    "priceTTC": 89,
+    "format": "Template Notion",
+    "pages": null,
+    "featured": true
+  },
+  {
+    "id": 6,
+    "title": "Kit jeux pédagogiques",
+    "category": "Kit pédagogique",
+    "description": "5 jeux prêts à imprimer pour dynamiser vos formations : cartes, fresques, quiz.",
+    "priceTTC": 39,
+    "format": "Pack PDF",
+    "pages": 24,
+    "featured": false
+  }
+]

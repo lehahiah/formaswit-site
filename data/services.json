@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "title": "Accompagnement & Conseil opérationnel",
+    "icon": "target",
+    "description": "Audit, paramétrage d'outils et conseil RH pour optimiser votre organisme de formation.",
+    "bullets": [
+      "Audit flash Qualiopi et plan d'action concret",
+      "Paramétrage Formdev, Kairos, Chorus Pro, OPCO",
+      "Gestion dossiers de financement et relations financeurs",
+      "Conseil RH et obligations légales OF"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Assistance aux organismes de formation",
+    "icon": "users",
+    "description": "Accompagnement complet pour vos audits et gestion administrative quotidienne.",
+    "bullets": [
+      "Préparation et accompagnement aux audits (Qualiopi, financeurs)",
+      "Gestion documentaire et archivage conforme",
+      "Suivi administratif des formations et dossiers stagiaires",
+      "Facturation et traçabilité réglementaire"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Conception de solutions et supports",
+    "icon": "cog",
+    "description": "Création d'outils sur-mesure pour simplifier vos processus métier.",
+    "bullets": [
+      "Guides pratiques, fiches mémo et kits facilitateurs",
+      "Applications no-code pour simplifier vos processus",
+      "Tableaux de bord personnalisés (Notion, Airtable, Google Sheets)",
+      "Cartographie des processus et rédaction de procédures internes"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Formations spécialisées",
+    "icon": "award",
+    "description": "Formations métier pour développer les compétences de vos équipes.",
+    "bullets": [
+      "Assistant(e) formation : métier et outils",
+      "Référent qualité : rôle et missions",
+      "Management de la qualité en OF",
+      "IA appliquée aux OF : cas concrets"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Veille et conformité réglementaire",
+    "icon": "shield",
+    "description": "Restez à jour avec les évolutions réglementaires de votre secteur.",
+    "bullets": [
+      "Veille automatisée Qualiopi, CPF, OPCO, droit du travail",
+      "Notes de synthèse régulières",
+      "Tableaux de bord de conformité"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Structuration documentaire & GED",
+    "icon": "folder",
+    "description": "Organisation et archivage de vos documents selon les bonnes pratiques.",
+    "bullets": [
+      "Arborescence type et nomenclature de fichiers",
+      "Mise en place de GED simple (Google Drive, Notion, SharePoint)",
+      "Formation aux bonnes pratiques d'archivage"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Ingénierie pédagogique & accessibilité",
+    "icon": "book",
+    "description": "Conception de supports pédagogiques adaptés et inclusifs.",
+    "bullets": [
+      "Conception de référentiels de compétences",
+      "Création de jeux pédagogiques (cartes, fresques, kits)",
+      "Adaptation de supports pour publics spécifiques (DYS, TDAH, etc.)"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Digitalisation & automatisation",
+    "icon": "zap",
+    "description": "Automatisez vos processus pour gagner en efficacité.",
+    "bullets": [
+      "Automatisation des processus (Make, Zapier)",
+      "Workflows inscriptions, emails, reporting",
+      "Accompagnement digital des OF"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Communication & valorisation",
+    "icon": "megaphone",
+    "description": "Améliorez votre visibilité et valorisez votre offre de formation.",
+    "bullets": [
+      "Rédaction de fiches produit claires et attractives",
+      "Référencement Carif-Oref & France Travail",
+      "Conseils visibilité web & LinkedIn"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Goodies & produits pratiques",
+    "icon": "gift",
+    "description": "Objets personnalisés et supports visuels pour vos formations.",
+    "bullets": [
+      "Mugs, carnets, stickers pédagogiques",
+      "Affiches et posters mémos",
+      "Packs cadeaux pour formateurs"
+    ]
+  }
+]

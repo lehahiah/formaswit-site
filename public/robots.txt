@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://formaswift.com/sitemap.xml
+
+# Disallow admin and private pages
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Allow all other pages
+Allow: /
+Allow: /services
+Allow: /about
+Allow: /testimonials
+Allow: /contact
+Allow: /legal
+Allow: /privacy

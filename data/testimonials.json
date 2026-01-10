@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Agata U.",
+    "role": "Responsable formation",
+    "company": "",
+    "rating": 5,
+    "quote": "Julie est allée bien au delà de mes attentes pour nous accompagner vers l'audit qualiopi en fédérant l'équipe autour de ce projet collectif"
+  },
+  {
+    "id": 2,
+    "name": "Didier R.",
+    "role": "Directeur",
+    "company": "",
+    "rating": 5,
+    "quote": "Merci à Julie pour ces conseils et son professionnalisme"
+  },
+  {
+    "id": 3,
+    "name": "Laetitia S.",
+    "role": "Responsable pédagogique",
+    "company": "",
+    "rating": 5,
+    "quote": "J'ai apprécié l'esprit de coconstruction et que les conseils proviennent du terrain"
+  },
+  {
+    "id": 4,
+    "name": "Olivia C.",
+    "role": "Formatrice",
+    "company": "",
+    "rating": 5,
+    "quote": "Mes supports pédagogiques ont pris un coup de jeune et sont plus qualitatifs, merci"
+  },
+  {
+    "id": 5,
+    "name": "Ody",
+    "role": "Formatrice indépendante",
+    "company": "",
+    "rating": 5,
+    "quote": "Une aide précieuse pour mon BPF"
+  },
+  {
+    "id": 6,
+    "name": "Marvin K.",
+    "role": "Gérant d'organisme de formation",
+    "company": "",
+    "rating": 5,
+    "quote": "Julie a géré avec rigueur les dossiers confiés et levé les blocages administratifs"
+  }
+]

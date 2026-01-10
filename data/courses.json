@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "title": "Assistant(e) formation",
+    "duration": "2 jours",
+    "format": "Présentiel ou distanciel",
+    "price": 890,
+    "description": "Formation complète pour maîtriser le métier d'assistant(e) formation et les outils administratifs.",
+    "objectives": [
+      "Gérer les inscriptions et le suivi des stagiaires",
+      "Monter des dossiers OPCO et optimiser les financements",
+      "Utiliser Chorus Pro et les outils administratifs",
+      "Maîtriser la réglementation formation professionnelle"
+    ],
+    "program": [
+      "Rôle et missions de l'assistant(e) formation",
+      "Gestion administrative des formations",
+      "Relations avec les OPCO et financeurs",
+      "Outils digitaux et automatisation"
+    ],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Référent qualité",
+    "duration": "1 jour",
+    "format": "Distanciel",
+    "price": 490,
+    "description": "Comprendre le rôle de référent qualité et maîtriser les indicateurs Qualiopi.",
+    "objectives": [
+      "Comprendre Qualiopi et ses enjeux",
+      "Maîtriser les indicateurs clés de performance",
+      "Structurer la gestion documentaire",
+      "Préparer et suivre les audits qualité"
+    ],
+    "program": [
+      "Le référentiel Qualiopi en détail",
+      "Indicateurs et tableaux de bord",
+      "Gestion des preuves et documentation",
+      "Préparation aux audits"
+    ],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Management de la qualité en OF",
+    "duration": "2 jours",
+    "format": "Présentiel ou e-learning",
+    "price": 1290,
+    "description": "Formation complète pour piloter la qualité dans votre organisme de formation.",
+    "objectives": [
+      "Piloter la conformité réglementaire",
+      "Cartographier les processus métier",
+      "Construire un plan d'action qualité",
+      "Animer une démarche d'amélioration continue"
+    ],
+    "program": [
+      "Système de management de la qualité",
+      "Cartographie des processus",
+      "Plan d'action et indicateurs",
+      "Amélioration continue et innovation"
+    ],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "IA au service de la formation",
+    "duration": "Sur mesure",
+    "format": "Présentiel ou distanciel",
+    "price": 890,
+    "description": "Modules de prise en main de l'IA adaptés aux besoins spécifiques de votre organisme de formation.",
+    "objectives": [
+      "Maîtriser les outils IA pour la création de contenu pédagogique",
+      "Automatiser les tâches répétitives administratives",
+      "Optimiser la conception de parcours de formation avec l'IA",
+      "Créer des supports engageants et personnalisés rapidement"
+    ],
+    "program": [
+      "Panorama des outils IA pour les organismes de formation",
+      "Création de contenus pédagogiques avec ChatGPT, Claude et autres",
+      "Automatisation des process administratifs et marketing",
+      "Génération d'images, vidéos et supports visuels",
+      "Cas pratiques adaptés à votre OF",
+      "Mise en situation et accompagnement personnalisé"
+    ],
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Webinaire RGPD pour OF",
+    "duration": "2h",
+    "format": "Webinaire",
+    "price": 89,
+    "description": "Comprendre et appliquer le RGPD dans votre organisme de formation.",
+    "objectives": [
+      "Comprendre les obligations RGPD",
+      "Mettre en place les procédures nécessaires",
+      "Gérer les données des stagiaires",
+      "Préparer les documents de conformité"
+    ],
+    "program": [
+      "RGPD : principes et obligations",
+      "Gestion des données stagiaires",
+      "Procédures et documentation",
+      "Outils pratiques de mise en conformité"
+    ],
+    "featured": false
+  }
+]
